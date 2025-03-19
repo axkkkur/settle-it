@@ -87,7 +87,7 @@ For any questions or feedback, please open an issue in the repository or reach o
 
 ## Author
 
-[Akshat Mittal](https://akshatmittal61.vercel.app)
+Ankur Singh
 
 ## Acknowledgements
 
