@@ -8,6 +8,10 @@ Blend in the fun and let us handle your expenses.
 <img src="./public/favicon.svg" alt="Expenses Tracker" width="200" height="200" />
 </p>
 
+## Live Demo
+
+Check out the live version of the app: [Settle It](https://settle-it-gamma.vercel.app/)
+
 ## Introduction
 
 ## Features
