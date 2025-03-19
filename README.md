@@ -38,7 +38,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/akshatmittal61/settle-it.git
+    git clone https://github.com/axkkkur/settle-it.git
     cd settle-it
     ```
 
@@ -81,7 +81,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any questions or feedback, please open an issue in the repository or reach out to us at [akshatmittal2506@gmail.com](mailto:akshatmittal2506@gmail.com).
+For any questions or feedback, please open an issue in the repository or reach out to us at [ankkursinghiiitu@gmail.com](mailto:ankkursinghiiitu@gmail.com).
 
 ---
 
